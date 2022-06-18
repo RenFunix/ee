@@ -3146,7 +3146,7 @@ let capt = `⭔ Title: ${judul}
                 let btn = [{
                                 urlButton: {
                                     displayText: 'ɢʀᴏᴜᴘ ʙᴏᴛ',
-                                    url: 'https://chat.whatsapp.com/KpS9eHNALBs3mXXJGtzuZE'
+                                    url: 'https://chat.whatsapp.com/JMv6TBnYGCe7NngMhLdGmb'
             }
           },
           {
